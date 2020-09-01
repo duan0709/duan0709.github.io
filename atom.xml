@@ -41,11 +41,35 @@
   </entry>
   
   <entry>
+    <title>关于安装双系统差点把博客搞没这件事</title>
+    <link href="https://duan0709.github.io/2020/09/01/%E5%85%B3%E4%BA%8E%E5%AE%89%E5%8F%8C%E7%B3%BB%E7%BB%9F%E6%8A%8A%E5%8D%9A%E5%AE%A2%E5%B7%AE%E7%82%B9%E6%90%9E%E6%B2%A1%E8%BF%99%E4%BB%B6%E4%BA%8B/"/>
+    <id>https://duan0709.github.io/2020/09/01/%E5%85%B3%E4%BA%8E%E5%AE%89%E5%8F%8C%E7%B3%BB%E7%BB%9F%E6%8A%8A%E5%8D%9A%E5%AE%A2%E5%B7%AE%E7%82%B9%E6%90%9E%E6%B2%A1%E8%BF%99%E4%BB%B6%E4%BA%8B/</id>
+    <published>2020-08-31T18:57:51.000Z</published>
+    <updated>2020-09-01T05:04:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="关于安装双系统差点把博客搞没这件事"><a href="#关于安装双系统差点把博客搞没这件事" class="headerlink" title="关于安装双系统差点把博客搞没这件事"></a>关于安装双系统差点把博客搞没这件事</h1><blockquote><p>如本次标题所说，这次心血来潮，想给我的laptop整个双系统，黑苹果暂时没考虑，选择了win+Linux双系统，然后这次选择的是Ubuntu20.04.1，也怪我，当时博客专门分了个盘，然后搞没了，哈哈哈哈哈…</p></blockquote><p><strong>解决方案</strong>:(￣▽￣)”    幸好当时备份了博客，就是少了篇文章，就是这篇           链接     </p><p>这个博客是基于hexo+Butterfly+github搭建的，图库用的是jsdeliver。其实不用将所有的文件都还原(这个方法换电脑照样适用)。</p><h2 id="只需要拷贝一下目录"><a href="#只需要拷贝一下目录" class="headerlink" title="只需要拷贝一下目录"></a>只需要拷贝一下目录</h2><blockquote><ul><li>_config.yml</li><li>package.json</li><li>scaffolds/</li><li>source/</li><li>themes/</li></ul></blockquote><p> 然后把这些文件放到一个目录下，例如hexo(就是一个文件夹)</p><h2 id="然后再配置hexo的环境：安装node"><a href="#然后再配置hexo的环境：安装node" class="headerlink" title="然后再配置hexo的环境：安装node"></a>然后再配置hexo的环境：安装node</h2><p>具体安装方法网上都有</p><h2 id="安装完node之后，再执行以下命令"><a href="#安装完node之后，再执行以下命令" class="headerlink" title="安装完node之后，再执行以下命令"></a>安装完node之后，再执行以下命令</h2><blockquote><p>npm install -g hexo</p></blockquote><h2 id="安装好执行完命令后，进入上面创建的hexo目录中"><a href="#安装好执行完命令后，进入上面创建的hexo目录中" class="headerlink" title="安装好执行完命令后，进入上面创建的hexo目录中"></a>安装好执行完命令后，进入上面创建的hexo目录中</h2><blockquote><p><strong>准备</strong>:这里win+R用cmd也行，用Git也行(建议用Git)</p></blockquote><h2 id="模块安装，执行命令"><a href="#模块安装，执行命令" class="headerlink" title="模块安装，执行命令"></a>模块安装，执行命令</h2><blockquote><ul><li>npm install</li><li>npm install hexo-deployer-git –save</li><li>npm install hexo-generator-feed –save</li><li>npm install hexo-generator-sitemap –save</li></ul></blockquote><h2 id="最后就是部署，然后执行命令"><a href="#最后就是部署，然后执行命令" class="headerlink" title="最后就是部署，然后执行命令"></a>最后就是部署，然后执行命令</h2><blockquote><ul><li>hexo g</li><li>hexo deploy</li></ul></blockquote><p>以上就是本次的手残操作，还有补救就很棒，要不就得重新搭载了，嘤嘤嘤，大难不死，必有后福，真好，又水了一篇，下次打算出个《从0开始搭建属于自己的博客》，再好好巩固一下</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="双系统" scheme="https://duan0709.github.io/categories/%E5%8F%8C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="双系统" scheme="https://duan0709.github.io/tags/%E5%8F%8C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于写博客这件事</title>
     <link href="https://duan0709.github.io/2020/09/01/%E5%85%B3%E4%BA%8E%E5%86%99%E5%8D%9A%E5%AE%A2%E8%BF%99%E4%BB%B6%E4%BA%8B/"/>
     <id>https://duan0709.github.io/2020/09/01/%E5%85%B3%E4%BA%8E%E5%86%99%E5%8D%9A%E5%AE%A2%E8%BF%99%E4%BB%B6%E4%BA%8B/</id>
     <published>2020-08-31T17:02:03.000Z</published>
-    <updated>2020-09-01T04:56:22.537Z</updated>
+    <updated>2020-09-01T05:05:03.294Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="关于写博客这件事"><a href="#关于写博客这件事" class="headerlink" title="关于写博客这件事"></a>关于写博客这件事</h1><blockquote><p>写博客这件事，谈谈自己的看法</p></blockquote><p>其实，写博客的人有很多，尤其像从事互联网这类行业相关的人。</p><blockquote><p>有个问题:我们要不要写博客呢？在开始之前，咱们不妨了解一下博客。</p></blockquote><p><em>博客，正式名称为网络日记，具体表现在其在网络上出版，发表和张贴个人文章，特点是：由个人管理不定期更新文章，通常以网页形式出现。有的博客专注在特定的课题上提供评论或新闻，有的仅仅是个人博客。一个典型的博客结合了文字、图像、其他博客或网站的链接及其它与主题相关的媒体，能够让读者以互动的方式留下意见，是许多博客的重要要素。ps:以上来源于百度词条</em></p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>有的人会说坚持写作，建议你去写博客，被各种安利，就这样，可能会受到影响而开始了你的博客之旅。那么是不是必须要写博客呢？我认为：<strong>看自己的需求</strong>，没必要一定写博客。</p><p>在我看来，如果是个人博客，单纯的记录日常，学到的知识进行总结，你可以去尝试一下写写博客，它还能锻炼你的写作能力，但如果你是那种嫌麻烦，平时懒得维护，觉得没必要浪费时间的人，不建议写博客。所以说，写博客不是必须的，有时候，get到了一个新技能、学习了一个新技术，心血来潮，抄起键盘一顿敲。很爽！但有时候这也是挺耗费时间的，所以说，写博客这件事，还是<strong>得看自己需求</strong>,写博客，一是写给别人看，二是当作自己总结或者记录日常，无非这两种。我是第二种，比较佛性，认为该写的时候就写(水)一篇，也不用天天写，坚持更新，我不是说更新不好哈，<strong>因人而异</strong>，非常佩服那些大佬们，它们时刻提醒自己是个fw，哈哈哈哈。</p><p>写博客也好，其他的像写文章也好，确实能让我们从中收获颇丰，提高了逻辑能力，对于某个知识点了解更加深入，对于自己语言能力也是有很大的提升的，说起话来更严谨，包括一些平时遇到的失误，像例如有个小bug，解决后，写篇博客，那是个不错的选择，类似错题集，看起来挺好的。</p><p>有人可能对写博客这件事有恐惧心理，害怕写作。我写不好怎么办？我该怎么写？从何写起？写博客真的好吗？如果你真的下定决心写博客，不用害怕，写就完了，写自己的，做好自己，说到底，还是不够自信。相信自己，这是一个属于我们的时代！仰天大笑出门去，我辈岂是蓬蒿人！胸有成竹，鹰击长空！三毛：我笑，便面如春花，定是能感动人的，任他是谁。自信点，怕什么？</p><p>如果你非常想写博客，可以去尝试一下，如果对写博客迟疑，我可以稍微提一下我的建议：</p><blockquote><ul><li><p><strong>目的性</strong></p><p>扪心自问，如果你写博客,是出于什么目的来写？这个要想好，我们在做一件事情的时候，往往是带有一种目的性，想要达成什么？</p></li><li><p><strong>主观性</strong></p><p>这里的主观性是对于自身来说，我们要有一定的判断能力，不能盲目的去写，听说很多人写，我也去写一个，这种从众心理驱使着你去写，其实是不大好的…</p></li><li><p><strong>极限性</strong></p><p>极限性，就是一个事物到了极限，比如学习中遇到了瓶颈，这时候，来写写是不错的，有的时候学的挺多，但还是不会去用，做不好，这个时候，可以尝试把学过的东西写出来，就好比，会了一个知识点，给别人讲的时候，卡壳了，说明你还没有完全理解，写一写，可能学会了，但还没消化，对于实际运用没那么熟练，实践才是检验真理的唯一标准，多去写一写，做一做，好好巩固一下…</p></li><li><p><strong>时间安排</strong></p><p>还有就是对于时间的规划，如果你是一位合格的时间管理大师，建议可以写一写博客，如果时间紧凑，安排不过来，强烈不建议去写博客，到时候工作没干好，博客也没弄好，得不偿失，专注于把眼前事情做好，再去安排博客，利用好时间，会使你的效率卓有成效，事半功倍</p></li></ul></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">以上仅代表个人观点，啊哈哈哈哈，又水了一篇文章，针不戳...</span><br></pre></td></tr></table></figure>]]></content>
     
